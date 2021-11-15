@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div1{
+    height: 200px;
+    width: 100px;
+    background-color:green;
+    margin: 30px 100px 50px 100px;
+    border-radius: 0 50px;
+}
+.div2{
+    height: 200px;
+    width: 100px;
+    background-color:blue;
+}
+.green{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    margin: 100px 0 50px 300px;
+    text-align: center;
+    padding: 30px;
+}
+.red{
+     height: 100px;
+     width: 100px;
+     background-color: red;
+     border-radius: 50%;
+     display: inline-block;
+}
+.baire{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(209, 94, 65);
+    margin: 50px 0 50px 200px;
+    padding: 25px;
+    border-radius: 50%;
+}
+.vitor{
+      width: 100px;
+      height: 100px;
+      background-color: rgb(247, 8, 8);
+      border-radius: 50%;
+      display: inline-block;
+      margin-top: 50px;
+}
